@@ -5,15 +5,15 @@ A simple tool to export Confluence pages to Markdown format. **Note:** This code
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/josh-abram/confluence-markdown-exporter.git
-    cd confluence-markdown-exporter
-    ```
+   ```sh
+   git clone https://github.com/josh-abram/confluence-markdown-exporter.git
+   cd confluence-markdown-exporter
+   ```
 
 2. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
